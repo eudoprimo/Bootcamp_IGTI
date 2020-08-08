@@ -1,0 +1,1 @@
+Criar uma aplicação web para Controle Financeiro Pessoal com MongoDB + Node.js + React e implantação no Heroku.
